@@ -1,6 +1,6 @@
 # Home — household, school, kids
 
-A starter project for running your household with AI agents helping you stay on top of the moving parts.
+A starter Hive for running your household with AI agents helping you stay on top of the moving parts.
 
 This template assumes a family with school-aged kids. Adapt freely.
 
