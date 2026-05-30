@@ -1,0 +1,12 @@
+slug: home
+name: Home & family
+description: "Household, school, kids — calendar, finances, activities, meals."
+category: personal
+recommended_agents:
+  - family-admin
+  - school-coordinator
+  - finances
+  - kids-activities
+  - meal-planning
+icon: home
+order: 10
